@@ -168,8 +168,11 @@ Cách sửa:
 ---
 
 
+### Keras báo thiếu TensorFlow
+```bash
+ModuleNotFoundError: No module named 'tensorflow'
+```
+#### Cài lại TensorFlow:
 ```bash
 pip install tensorflow
 ```
-
----
