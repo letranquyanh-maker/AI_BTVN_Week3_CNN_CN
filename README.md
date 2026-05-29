@@ -1,3 +1,5 @@
+# AI_BTVN_Week3_CNN_CN
+
 ## Setup Environment
 
 Flow chạy project
@@ -165,18 +167,9 @@ Cách sửa:
 
 ---
 
-### Keras báo thiếu TensorFlow
-
-```bash
-ModuleNotFoundError: No module named 'tensorflow'
-```
-
-Cài lại TensorFlow:
 
 ```bash
 pip install tensorflow
 ```
 
 ---
-
-# AI_BTVN_Week3_CNN_CN
